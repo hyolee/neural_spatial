@@ -1,4 +1,5 @@
 from debug import *
+import numpy as np
 import h5py
 
 train_val = sys.argv[1]
